@@ -22,10 +22,7 @@ A comprehensive Next.js **project** utilizing modern web technologies and librar
 - Admin and user routes are generated dynamically using `routeGenarator`.
 - Protected routes are managed with the `ProtectedRoute` component to ensure only logged-in users can access specific pages.
 
-## Installation
 
-  - git clone https://github.com/your-username/your-repo-name.git
-  - cd your-repo-name
 
 
 
